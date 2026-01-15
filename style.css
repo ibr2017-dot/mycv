@@ -80,6 +80,6 @@ a {
 }
 
 a:hover {
-    transform: translate(1.1);
+
     background-color: chartreuse;
 }
